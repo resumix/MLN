@@ -1,0 +1,56 @@
+.main_container {
+	
+	Background: #F2F2F2;
+	margin: auto;
+	width: 400px;
+	margin: auto;
+	padding: auto;
+	text-align: center;
+	border: 1px solid #CFCFCF;
+
+
+}
+
+div {
+	display: block;
+}
+
+.main_title {
+	
+	margin: 0px 0px 30px 0px;
+	width: 100%;
+	background: #656565;
+	color: #FFFFFF;
+	text-align: center;
+	padding: 5px 0 5px 0;
+	
+}
+
+.form {
+
+	display: block;
+	margin: 30px auto;
+}
+
+.inputfile {
+	background: #CACACA;
+}
+
+.titrebta {
+	margin: 10px auto;
+}
+
+.explic {
+	font-size: 12px;
+	
+}
+
+.txt {
+	color: green;
+}
+
+h3 {
+	color: red; 
+
+}
+
